@@ -1,0 +1,15 @@
+What this is:
+
+Zero-cost WhatsApp LLM bot that processes text, images, and documents
+Intelligent AI switching between Groq, Together AI, Cohere, and Hugging Face
+Google Drive storage for all files and conversations
+RAG (Retrieval-Augmented Generation) for document-based Q&A
+Filename tracking for all uploaded files
+
+Key Features:
+
+Multi-AI Provider Support - Automatically switches when rate limits hit
+File Processing - PDF, Word, TXT documents + images (JPEG, PNG, etc.)
+Knowledge Base - Semantic search through uploaded documents
+Conversation Memory - Maintains context across interactions
+Smart Responses - Distinguishes between document info vs. general knowledge
